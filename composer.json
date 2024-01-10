@@ -1,0 +1,24 @@
+{
+    "name": "sanzaie/contact",
+    "description": "This is will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sanzaie\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanzaiee",
+            "email": "snjprajapati3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Sanzaie\\Contact\\": "src/"
+        }
+    }
+}
